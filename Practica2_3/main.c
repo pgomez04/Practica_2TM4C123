@@ -1,4 +1,4 @@
-
+//Practica 2, realizada por Christian, Jozza y Paulina
 #include "lib/include.h"
 
 unsigned long Led;
